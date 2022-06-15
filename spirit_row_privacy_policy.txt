@@ -1,0 +1,6 @@
+Spirit Row Privacy Policy
+
+1. Personal Data Storage
+	a. Spirit Row stores records of your gameplay locally. This data includes time spent, workout intensity, and high scores.
+2. Data Transmission and Collection
+	aSpirit Row does not transmit or collect any of your personal data.
