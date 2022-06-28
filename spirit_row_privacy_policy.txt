@@ -3,5 +3,6 @@ Spirit Row Privacy Policy
 1. Personal Data Storage
 	a. Spirit Row stores records of your gameplay locally. This data includes time spent, workout intensity, and high scores.
 	b. This data facilitates local user gameplay only.
+	c. This data can be deleted via the in game Options menu.
 2. Data Transmission and Collection
 	a. Spirit Row does not transmit or collect any of your personal data.
